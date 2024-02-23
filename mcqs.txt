@@ -1,0 +1,60 @@
+ {
+        id: "1",
+        question: "1. Eighteen labourers dig a ditch 80 metres long in 5 days. How long will it take 24 labourers to dig 64 metres long? What assumptions have you made?",
+        options: ["a. 2days", "b. 3weeks", "c. 3days", "d. 2weeks"],
+        correct: "c. 3days",
+    },
+    {
+        id: "2",
+        question: "2. A transport company charges 54 800FRW to move a load of 2.8 tonnes for 350 km. For what load will the corporation charge 47 040 FRW for 400 km?",
+        options: ["a. 5tonnes", "b. c.  0.1 Tonnes", "c.  2.1 Tonnes", "d. 2.9tonnes"],
+        correct: "c.  2.1 Tonnes",
+    },
+    {
+        id: "3",
+        question: "3. The perimeter of a rectangle is 46 cm. If the diagonal is 17 cm, find the width of the rectangle.",
+        options: ["a. 23cm", "b. 15cm", "c. 16cm", "d. 8cm"],
+        correct: "d. 8cm",
+    },
+    {
+        id: "4",
+        question: "4. The product of two consecutive odd numbers is 143. Find those two odd numbers.",
+        options: ["a. 7 and 13 or –11 and –13", "b. 11 and 13 or –11 and –13", "c. 12 and 13 or –15 and –13", "d.7 and 13 or –7 and –13"],
+        correct: "b. 11 and 13 or –11 and –13",
+    },
+    {
+        id: "5",
+        question: "5. . A newspaper editor hired a writer for jokes or cartoons. The cost for 8 jokes and 6 cartoons is 610 FRW. The cost of 6 jokes and 8 cartoons is 510 FRW. How much do a joke and a cartoon together cost?",
+        options: ["a. 180 FRW", "b. 90 FRW", "c. 80 FRW", "d. 810 FRW"],
+        correct: "c. 80 FRW",
+    },
+    {
+        id: "6",
+        question: "6. Solve the equation (x+3)/2 - (x+4)/3 = (x-2)/4",
+        options: ["a. 8 ", "b. 4 ", "c. 2 ", "d. 7"],
+        correct: "a. 8 ",
+    },
+    {
+        id: "7",
+        question: "7. . Carry out the following in base six  115 + 251 + 251  ",
+        options: ["a. 10111six", "b. 1101six", "c. 0111six", "d. 1110"],
+        correct: "b. 1101six",
+    },
+    {
+        id: "8",
+        question: "8. A group of 50 people were asked about the sections they read very keenly in a newspaper among politics, advertisements and sports. The results showed that 25 read politics, 16 read advertisement, 14 read sports. 5 read both politics and advertisement, 4 read both advertisement and sports, 6 read both politics and sports, and 2 read all the three sections.(a) Find the number of people who read;(i) At least one of the three sections. (ii) Only one of the three sections.  (iii) Only politics..",
+        options: ["(i) 42  (ii) 23  (iii) 23", " i)42, ii) 31, iii)16", " i) 21 l, ii) 24 l, iii)24 ", "d. a. i) 11, ii) 20, iii)22"],
+        correct: "i) 42, ii) 31, iii)16",
+    },
+    {
+        id: "9",
+        question: "9. Find the total distance in terms of x and y for each of the following A car travels for x hours at 60 km/h and y hours at 100 km/h. ",
+        options: ["a.  (600x + 100y) km", "b.  (6x + 100y) km", "c.  (60x + 10y) km", "d. (60x + 100y) km"],
+        correct: "d. (60x + 100y) km",
+    },
+    {
+        id: "10",
+        question: "10. A man bought a certain number of golf balls for 2,000 FRW. If each ball had cost 200 FRW less, he could have bought five more for the same money. How many golf balls did he buy?",
+        options: ["a. 80 ", "b. 6", "c. 4", "d. 5"],
+        correct: "d. 5",
+    }

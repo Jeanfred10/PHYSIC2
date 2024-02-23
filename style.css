@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    
+}
+
+/* Styles for the start screen */
+#start-screen {
+    background-color: #001f3f; /* Dark blue background */
+    color: #FFA500; /* Orange text color */
+    padding: 20px;
+    text-align: center;
+    display: block;
+}
+
+
+
+.brain.jpg{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+.timer-container{
+    font-size: large;
+    color: skyblue;
+    border: #001f3f;
+}
+/* Button style */
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #FFA500; /* Orange background */
+    color: #001f3f; /* Dark blue text color */
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #FFD700; /* Lighter orange on hover */
+}
+
+/* Styles for the question container */
+#question-container {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Timer container */
+#timer-container {
+    text-align: center;
+    padding: 10px;
+    color: brown;
+    font-size: larger;
+    font-weight: 700;
+}
+
+/* Additional styles as needed */
